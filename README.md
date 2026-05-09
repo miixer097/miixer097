@@ -42,6 +42,7 @@
 **Frontend:**<br/>
 <img src="https://img.icons8.com/?size=300&id=v8RpPQUwv0N8&format=png" width="50" alt="HTML"/>
 <img src="https://img.icons8.com/?size=300&id=7gdY5qNXaKC0&format=png" width="50" alt="CSS"/>
+
 **Backend & Database:**<br/>
 <img src="https://img.icons8.com/?size=300&id=54087&format=png" width="50" alt="Nodejs"/>
 <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50" alt="Expressjs"/>
