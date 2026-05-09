@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&height=150&color=gradient&text=Miixer&fontColor=000000&fontSize=100&stroke=EB5436 strokeWidth=3" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&height=150&color=gradient&text=Miixer&fontColor=000000&fontSize=100&stroke=EB5436&strokeWidth=3" alt="header" />
   
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> My name is Nattakid misa</h1>
   <p><b>Full-Stack Developer | DevOps | Server Admin | Network Engineer </b></p>
